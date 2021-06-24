@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Saumya</h1>
 <h3 align="center">A passionate android app developer , curious learner, an engineer and a writer through random bursts of inspiration.</h3>
 
