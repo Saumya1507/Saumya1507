@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saumya1507" alt="saumya1507" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin and Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saumya1507](https://github.com/Saumya1507)
 
